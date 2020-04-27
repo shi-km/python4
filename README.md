@@ -33,7 +33,7 @@ As a user I would like to:
 * virtualenv
 
 ### Cloning
-* In your terminal:
+* in your terminal:
         
         $ git clone https://github.com/shi-km/news/
         $ cd news
