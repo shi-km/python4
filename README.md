@@ -72,4 +72,4 @@ As a user I would like to:
 * Flask
 
 ## License
-MIT &copy;2020 [George kamau](https://github.com/)
+MIT &copy;2020 [George kamau](https://github.com/shi-km/python4/blob/master/LICENSE)
